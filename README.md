@@ -1,4 +1,4 @@
-## Hey, I am Amir Abaskanov 👋🏻
+## Hey, I am Amir Abaskanov
 
 I am a Software Engineer with full-stack development experience and a senior @ Bentley University '25  
 
