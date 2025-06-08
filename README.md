@@ -1,8 +1,7 @@
 ## Hey, I am Amir Abaskanov
 
-I am a Software Engineer with full-stack development experience and a senior @ Bentley University '25  
+I'm a Software Engineer with multiple internships in AI-driven startups.
 
-🌱 Studying Computer Information Systems | minor in Data Technologies  
 🚀 Toolbox:  
 **Languages:** Python, Java, JavaScript, TypeScript, R, HTML5, CSS3, Shell (Bash), ABAP  
 **Frameworks:** React, Django, NumPy, Pandas, Node.js, Next.js AstroJS, ElectronJS, TailwindCSS, SAP Fiori  
