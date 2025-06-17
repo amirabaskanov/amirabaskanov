@@ -8,4 +8,4 @@ I'm a Software Engineer with multiple internships in AI-driven startups.
 **Databases:** SQL, PostgreSQL, MySQL, AWS RDS, DynamoDB, S3, SAP HANA  
 **Cloud/DevOps:** AWS, Azure, SAP BTP, Docker, Git, GitHub, Linux, CI/CD, Cloud Development  
 **Tools:** REST APIs, Postman, Atlassian Jira, OpenAPI  
-📫 How to reach me: [Contact](mailto:amirabaskanov@gmail.com?subject=[GitHub]%20Reach%20Out)  
+📫 How to reach me: [Email](mailto:amirabaskanov@gmail.com?subject=[GitHub]%20Reach%20Out)  [LinkedIn](https://www.linkedin.com/in/abaskanov/)
