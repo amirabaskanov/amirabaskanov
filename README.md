@@ -1,4 +1,4 @@
-## Hey, I am Amir Abaskanov
+## Hey, I am Amir Abaskanov 👋
 
 I'm a Software Engineer with multiple internships in AI-driven startups.
 
