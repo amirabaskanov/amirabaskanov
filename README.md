@@ -19,4 +19,4 @@ When I'm not coding, I'm probably:
 
 [linkedin](https://www.linkedin.com/in/abaskanov/) · [email](mailto:amirabaskanov@gmail.com?subject=[GitHub]%20Reach%20Out)
 
-<img align="right" width="230" src="./assets/cat.gif" />
+<img align="right" width="230" src="./cat.gif" />
