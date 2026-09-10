@@ -1,6 +1,6 @@
 ## hey, I'm Amir 👋
 
-Software Engineer in San Francisco 🌁
+Software Engineer based in San Francisco 🌁
 
 I like building **fast things**, **cool real-time ml/ai systems**, and occasionally side projects that seem like a good idea at 1 am.
 
