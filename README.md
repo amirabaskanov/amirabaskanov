@@ -1,11 +1,22 @@
-## Hey, I am Amir Abaskanov 👋
+## hey, I'm Amir 👋
 
-I'm a Software Engineer with multiple internships in AI-driven startups.
+Software Engineer in San Francisco 🌁
 
-🚀 Toolbox:  
-**Languages:** Python, Java, JavaScript, TypeScript, R, HTML5, CSS3, Shell (Bash), ABAP  
-**Frameworks:** React, Django, NumPy, Pandas, Node.js, Next.js AstroJS, ElectronJS, TailwindCSS, SAP Fiori  
-**Databases:** SQL, PostgreSQL, MySQL, AWS RDS, DynamoDB, S3, SAP HANA  
-**Cloud/DevOps:** AWS, Azure, SAP BTP, Docker, Git, GitHub, Linux, CI/CD, Cloud Development  
-**Tools:** REST APIs, Postman, Atlassian Jira, OpenAPI  
-📫 How to reach me: [Email](mailto:amirabaskanov@gmail.com?subject=[GitHub]%20Reach%20Out)  [LinkedIn](https://www.linkedin.com/in/abaskanov/)
+I like building **fast things**, **cool real-time ml/ai systems**, and occasionally side projects that seem like a good idea at 1 am.
+
+ML & full stack are my domain lately.
+
+My current side project is [trygecko.app](https://trygecko.app/) 🦎🪨  
+A climbing tracker that lets you log workouts in seconds while you have chalk on your fingers.
+
+When I'm not coding, I'm probably:
+
+🧗 bouldering v7s  
+🏐 playing volleyball  
+🎸 jamming electric  
+🍜 boosting my beli elo  
+🏎️ jailbreaking a 2010-era racing game  
+
+[linkedin](https://www.linkedin.com/in/abaskanov/) · [email](mailto:amirabaskanov@gmail.com?subject=[GitHub]%20Reach%20Out)
+
+<img align="right" width="230" src="./assets/cat.gif" />
