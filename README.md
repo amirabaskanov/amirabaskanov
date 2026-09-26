@@ -13,8 +13,7 @@ When I'm not coding, I'm probably:
 
 🧗 bouldering v7s  
 🏐 playing volleyball  
-🎸 jamming electric  
-🍜 boosting my beli elo  
+🎸 jamming guitar   
 🏎️ jailbreaking a 2010-era racing game  
 
 [linkedin](https://www.linkedin.com/in/abaskanov/) · [email](mailto:amirabaskanov@gmail.com?subject=[GitHub]%20Reach%20Out)
